@@ -5,7 +5,8 @@ Pushing my leetcode solution daily. Have fun
 
 # Problems
 
-Problem: 54 - https://leetcode.com/problems/spiral-matrix/
+54 - https://leetcode.com/problems/spiral-matrix/
+125 - https://leetcode.com/problems/valid-palindrome/
 
 ## Contributing
 
@@ -16,4 +17,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[SRS]()
+[SRS](https://github.com/sophearyrin-dev/leetcodedaily)

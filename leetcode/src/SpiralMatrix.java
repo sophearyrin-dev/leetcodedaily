@@ -3,7 +3,12 @@ import java.util.List;
 
 public class SpiralMatrix {
 
-    public List<Integer> spiralOrder(int[][] matrix) {
+    //Top, Bottom : row
+    //Left, Right : column
+    // maxtrix.length = length of row
+    // matrix[0].length = length of col
+
+    public static List<Integer> spiralOrder(int[][] matrix) {
 
         List<Integer> result = new ArrayList<>();
         if(matrix.length == 0) return result;
@@ -39,6 +44,11 @@ public class SpiralMatrix {
         return result;
     }
     public static void main(String[] args) {
+        int num[][] = {{1,2,3},{4,5,6}, {7, 8, 9}};
 
+        List<Integer> result = SpiralMatrix.spiralOrder(num);
+
+        System.out.println(result);
     }
+
 }
