@@ -6,7 +6,10 @@ Pushing my leetcode solution daily. Have fun
 # Problems
 
 54 - https://leetcode.com/problems/spiral-matrix/
+
 125 - https://leetcode.com/problems/valid-palindrome/
+
+https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 
 ## Contributing
 
