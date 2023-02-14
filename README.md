@@ -11,6 +11,8 @@ Pushing my leetcode solution daily. Have fun
 
 https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 
+724 - https://leetcode.com/problems/find-pivot-index/?envType=study-plan&id=level-1
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
