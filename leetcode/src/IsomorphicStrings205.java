@@ -37,7 +37,6 @@ public class IsomorphicStrings205 {
         char w = 'a';
         int y[] = new int[256];
         System.out.println("asdkjflakdsf = " + y['a']); //0
-//        System.out.println('b' + y['b']); //98
     }
 
 }
