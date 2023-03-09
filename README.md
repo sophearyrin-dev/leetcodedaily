@@ -42,6 +42,8 @@ It does not waste memory space.
   HashMap handles collision by using a linked list to store map entries ended up in same array location or bucket location or use Chaining collision resolution
 
 
+## HashSet
+- It does not allow to store duplicate value
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
