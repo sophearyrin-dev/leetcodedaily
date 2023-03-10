@@ -44,6 +44,10 @@ It does not waste memory space.
 
 ## HashSet
 - It does not allow to store duplicate value
+
+
+## Stream
+The stream method return you a stream
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first

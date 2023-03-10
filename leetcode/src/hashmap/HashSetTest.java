@@ -11,6 +11,6 @@ public class HashSetTest {
         numbers.add(10);
         numbers.add(10);
 
-        System.out.println(numbers);
+        System.out.println(numbers); //10
     }
 }
