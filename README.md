@@ -17,6 +17,8 @@ https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 
 21 Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=study-plan&id=level-1
 
+2 - Add Two Number - https://leetcode.com/problems/add-two-numbers/
+
 ## LinkedList
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Linked-List-Soni/representation-of-linked-list.png">
 A linked list is the most sought-after data structure when it comes to handling dynamic data elements. A linked list consists of a data element known as a node. And each node consists of two fields: one field has data, and in the second field, the node has an address that keeps a reference to the next node.
